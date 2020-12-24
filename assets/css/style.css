@@ -1,0 +1,23 @@
+body{
+    height: 100vh;
+}
+main{
+    height: 60vh;
+}
+.form{
+    margin: auto;
+    background-color: beige;
+    width: 70%;
+    height: 60vh;
+}
+footer{
+    text-align: center;
+    color: white;
+    
+}
+footer p{
+    text-align: center;
+    margin: 5px auto;
+    font-size: 20px;
+    font-weight: bold;
+}
